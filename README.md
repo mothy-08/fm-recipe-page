@@ -9,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Links
 
 - [Source](https://github.com/mothy-08/fm-recipe-page)
-- [Live](mothy-08.github.io/fm-recipe-page/)
+- [Live](https://mothy-08.github.io/fm-recipe-page/)
 
 ## Built with
 - HTML & CSS
